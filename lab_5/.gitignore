@@ -6,3 +6,7 @@
 /PuzzleUtils$1.class
 /PuzzleUtils$2.class
 /GraphSearch.class
+/GreedyBestFirstSearch.class
+/AStarSearch.class
+/AStarSearch$AStarComparator.class
+/AStarSearch$HeuristicType.class
