@@ -14,33 +14,6 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>lab_4/Edge.java</name>
-			<type>1</type>
-			<location>C:/Users/Asus/Documents/Zalo Received Files/Edge.java</location>
-		</link>
-		<link>
-			<name>lab_4/IInformedSearchAlgo.java</name>
-			<type>1</type>
-			<location>C:/Users/Asus/Documents/Zalo Received Files/IInformedSearchAlgo.java</location>
-		</link>
-		<link>
-			<name>lab_4/Node.java</name>
-			<type>1</type>
-			<location>C:/Users/Asus/Documents/Zalo Received Files/Node.java</location>
-		</link>
-		<link>
-			<name>lab_4/NodeUtils.java</name>
-			<type>1</type>
-			<location>C:/Users/Asus/Documents/Zalo Received Files/NodeUtils.java</location>
-		</link>
-		<link>
-			<name>lab_4/TestAStar.java</name>
-			<type>1</type>
-			<location>C:/Users/Asus/Documents/Zalo Received Files/TestAStar.java</location>
-		</link>
-	</linkedResources>
 	<filteredResources>
 		<filter>
 			<id>1698307604202</id>
